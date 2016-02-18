@@ -1,5 +1,6 @@
 
-n (require) {
+/*global define*/
+define(function (require) {
   'use strict';
   var Notification = {},
       $ = require('jquery'),
